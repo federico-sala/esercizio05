@@ -1,2 +1,2 @@
-n = input("Inserisci un numero intero, ti stampero' il doppio")
-print(int(n)*2)
+n = input("Inserisci un numero intero, ti stampero' il triplo")
+print(int(n)*3)

@@ -1,3 +1,3 @@
 #Esercizio 05
 
-Aggiunto file main.py, che stampa il doppio di un numero intero dato
+Modificato file main.py, che ora stampa il triplo di un numero intero dato
